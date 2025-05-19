@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^11.4.0",
+    "random-words": "^2.0.1"
+  }
+}
